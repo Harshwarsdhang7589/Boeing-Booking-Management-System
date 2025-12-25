@@ -1,0 +1,31 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "main.Main",
+      "projectName": "Booking System Management_a6f5ef7d"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "d:/CIPHER CLASS UNIVERSAL BOOK/JAVA  CORE-OOP'S  CLASSBOOK/CIPHER MAM NOTES & LECTURES/Booking System Management",
+      "program": "d:/CIPHER CLASS UNIVERSAL BOOK/JAVA  CORE-OOP'S  CLASSBOOK/CIPHER MAM NOTES & LECTURES/Booking System Management/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
